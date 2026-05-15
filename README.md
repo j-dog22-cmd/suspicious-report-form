@@ -74,7 +74,7 @@ Entire home network protected
 
 ## Why I Built This
 
-After analysing a real world DPD phishing SMS (see my [threat analysis report](https://claude.ai/threat-analysis/DPD_URL/)), I wanted to create a practical tool that would help protect people around me from similar attacks.
+After analysing a real world DPD phishing SMS (see my [threat analysis report](https://github.com/j-dog22-cmd/Security_Portfolio/tree/7ae79d44b8bca6dd5c1fd13eca538bfa545615af/threat-analysis/DPD_URL)), I wanted to create a practical tool that would help protect people around me from similar attacks.
 
 Rather than just documenting threats after the fact, this form allows me to intercept suspicious content before anyone clicks, analyse it safely and use the findings to protect my home network.
 
